@@ -99,13 +99,5 @@ union{
 } 
 
 //_________________________________________
-
-
-
-
-
-  
-           
-           
-           object{enlaces}// rotate x*30 scale 2}                     
-           object{seg_cap}
+object{enlaces}// rotate x*30 scale 2}                     
+object{seg_cap}
