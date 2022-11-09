@@ -1,2 +1,5 @@
-# atomic_structures
-This repository contains code to make some molecules and structures made in POV-Ray
+# Atomic lattices 
+
+This repository contains code to make some molecules and periodic lattices made in POV-Ray.
+
+More coming soon!
